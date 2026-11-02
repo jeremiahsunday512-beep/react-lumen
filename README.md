@@ -1,4 +1,17 @@
-[![Code Climate](https://codeclimate.com/github/ktquez/react-lumen/badges/gpa.svg)](https://codeclimate.com/github/ktquez/react-lumen) [![Build Status](https://travis-ci.org/ktquez/react-lumen.svg?branch=master)](https://travis-ci.org/ktquez/react-lumen) [![Total Downloads](https://poser.pugx.org/ktquez/react-lumen/downloads)](https://packagist.org/packages/ktquez/react-lumen)
+Oh you don delete am empty! No wahala.
+
+Now for that empty Row 1, paste this full line:
+
+`import { HashRouter as BrowserRouter } from 'react-router-dom'`
+
+Just tap for Row 1, hold, then tap PASTE.
+
+After you paste, click green *Commit changes*
+
+You fit paste am now for Row 1?
+
+
+ads](https://gist.org/packages/ktquez/react-lumen)
 
 # react-Lumen
 
